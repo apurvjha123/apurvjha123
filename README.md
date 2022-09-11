@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvjha123&label=Profile%20views&color=0e75b6&style=flat" alt="apurvjha123" /> </p>
 
-<p align="left"> <a href="https://twitter.com/apurvjh67211159" target="blank"><img src="https://img.shields.io/twitter/follow/apurvjh67211159?logo=twitter&style=for-the-badge" alt="apurvjh67211159" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Apurvjha_eth" target="blank"><img src="https://img.shields.io/twitter/follow/apurvjh67211159?logo=twitter&style=for-the-badge" alt="apurvjh67211159" /></a> </p>
 
 - 🌱 I’m currently learning **Next js , Solidity , DevOps, etc**
 
